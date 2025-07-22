@@ -1028,3 +1028,442 @@ LERs can help patient with their own meds
 - **Schedule 3** → [To be filled in]
 
 > [!warning] Do NOT provide assistance with meds if they don't have their prescription
+
+---
+
+# Explosions & Blast Injuries
+
+## Scene Safety
+- **Scene safety is the first priority**
+- Use triage protocols (START method)
+
+## Types of Blast Injuries
+
+### Primary Blast Injury
+- **Pressure wave injuries**
+- Affects hollow organs
+- Includes:
+  - Pulmonary issues
+  - Middle/inner ear damage
+  - GI perforation
+  - **Lung damage**
+
+### Secondary Blast Injury
+- **Caused by flying debris**
+- Injuries include:
+  - Blunt trauma
+  - **Penetrations**
+  - Abrasions
+
+### Tertiary Blast Injury
+- **Patient physically thrown**
+- Injuries include:
+  - **Skeletal trauma**
+  - Fractures
+  - Penetrating wounds
+
+### Quaternary Blast Injury
+- **Other injuries caused by the blast**
+- Includes:
+  - Burns
+  - Crushed tissue
+  - Psychological trauma
+  - Respiratory tract damage
+- Focus on treating all patients to avoid missing injuries
+
+## Management of Blast Injuries
+- Use standard precautions
+- Wear exam gloves under arrest gloves
+- Expect large debris contamination
+
+---
+
+# Cold Exposure & Hypothermia
+
+## Hypothermia
+- Occurs when body temp < 95°F (35°C)
+- Common in urban settings, infants, elderly, homeless, or poor circulation
+
+## Classification of Hypothermia
+
+| Type | Temp Range | Signs |
+|------|------------|-------|
+| **Mild** | 95–90°F (35–32°C) | Apathy, impaired judgment, shivering preserved |
+| **Moderate** | 90–82°F (32–28°C) | Decreased consciousness, loss of coordination, muscle stiffness, ↓ shivering |
+| **Severe** | <82°F (<28°C) | Unresponsive, weak pulse, slowed respiration |
+
+### Treatment
+- Check airway, breathing, circulation (ABC)
+- Can lead to coma, cardiac arrest if not corrected
+- **Look for a pulse for one full minute before starting CPR**
+- Treat ABCs and gently handle patient
+- Shivering may stop as hypothermia progresses
+
+## Frostbite
+Common on appendages:
+- Nose
+- Ears
+- Fingers
+- Toes
+
+---
+
+# Heat-Related Illnesses
+
+## Heat Exhaustion
+- Normal to elevated temp
+- Skin: cool, clammy
+- Sweating
+- Signs: headaches, nausea, dizziness, fatigue
+
+## Heatstroke
+- Significantly elevated temp
+- Skin: dry/hot or moist
+- Lethargy, seizures, unconsciousness
+- **Absolute emergency**
+- Move to cool shaded area and apply external cooling
+
+---
+
+# Behavioral Emergencies
+
+## Behavioral Emergency
+**Patient exhibits abnormal behavior unacceptable to patient/family/community**
+- Can be: Physical, Mental, Emotional
+
+## Behavioral Crisis
+- Turmoil where patient loses control
+- Emotions override rational thought
+
+## Suicide & Scene Safety
+
+### Means of Suicide
+- Hanging
+- Drug OD
+- Jumping from heights
+- Use of weapons
+
+### Scene Response
+- **Your safety is #1**
+- **ALWAYS consider suicidal persons to be homicidal too**
+
+## Suicidal Patients & Risk Factors
+
+### High Risk Factors
+- **Depression**
+- High stress
+- **Previous attempts**
+- Age
+- Substance abuse
+
+## General Response Guidelines
+- Be aware of closest exit
+- Pay attention to body language (clenched fists, pacing, etc.)
+- Don't downplay violence
+- **Maintain safety**
+- **Never lose sight of your patient**
+- Use reasonable force
+
+### Excited Delirium
+- **Life threatening**
+- Requires medical attention
+- Common signs: body temp ↑
+
+### Positional Asphyxiation
+- **Risk in restrained individuals**
+
+---
+
+# Ballistics & Gunshot Wounds
+
+## General Notes
+- Gunshot wounds are **very common**
+- Affects:
+  - Soft tissue
+  - Bone
+  - Organs (all of it)
+
+## Ballistics
+Know parts of a weapon:
+- Cartridge = entire round
+- Primer, projectile, casing
+- Caliber = diameter of bullet
+
+## Shotguns
+- Example: "50 Deer Hunting"
+- Bullets are unpredictable inside the body
+
+---
+
+# Body Armor & Ballistics
+
+## Body Armor Types
+
+| Type | Bullet | Grain | Velocity | Deformation |
+|------|--------|-------|----------|-------------|
+| **IIA** | 9mm RN | 124 gr | 1050 ±30 ft/s | 1.73 in |
+| **II** | .357 JSP | 158 gr | 1400 ±30 ft/s | 1.73 in |
+| **IIIA** | .44Mag SJHP | 240 gr | 1400 ±30 ft/s | 1.73 in |
+
+---
+
+# Less Lethal Munitions
+
+## Types
+- **RCA**: Riot Control Agents (chem)
+- **SIM**: Specialty Impact Munitions
+- **CED**: Conducted Energy Devices (e.g. Taser)
+
+## SIMs
+- Rubber batons
+- Foam batons
+- Bean bag rounds
+
+## Impact Zones
+
+| Zone | Area | Notes |
+|------|------|-------|
+| **Zone 1 (Green)** | Thighs, buttocks, calves | **Safest, most muscle** |
+| **Zone 2 (Yellow)** | Abdomen, joints | **Moderate risk** |
+| **Zone 3 (Red)** | Head, neck, chest, spine | **High risk, avoid if possible** |
+
+---
+
+# Restraining Agitated Patients
+
+- Do NOT place patient **prone** while restraining
+- Ensure ventilation is not impaired
+- Use **4–5 rescuers**
+- Assign positions: one at each limb + head
+- Step safely toward patient and apply force together
+
+## Drug Effects
+
+### PCP & Ketamine
+- Dissociation from reality
+- Hostile
+- Perceive self as superhuman
+- Loss of balance
+
+### GHB
+- Date rape drug
+- Strong CNS depressant
+- Clear when diluted
+
+---
+
+# Opioids & Overdose
+
+- Opioid toxicity = sedation + respiratory depression
+- Treat with **Naloxone**
+  - Repeat if needed
+  - Use high-flow O2
+- Rare reverse effect on respiratory arrest
+
+---
+
+# Toxins & Toxicology
+
+## Routes of Exposure
+- **Inhalation**
+- **Ingestion**
+- Skin Contact
+- Activated charcoal used as binder (rarely induce vomiting)
+- LERs can be source of exposure (tear gas)
+
+## Infections
+- Various levels of severity
+- Bacteria, viruses, fungi
+- Can lead to sepsis → septic shock
+
+---
+
+# Medical Emergencies
+
+## Common Categories
+- Neurological
+- Respiratory
+- Cardiovascular
+- Abdominal
+
+## Neurologic Emergencies
+- Can be challenging
+- May result from:
+  - ↓ Oxygen supply to brain
+  - ↓ Blood flow to brain
+  - Electrical missteps in brain
+
+## Altered Mental Status (AMS)
+- **Definition**: Change in mentation or responsiveness
+- Assess by observing:
+  - Appearance
+  - Speech
+- **Patients with AMS should not be allowed to refuse care**
+- **Check for diabetes**:
+  - Are they diabetic?
+  - Did they take their insulin?
+  - Have they eaten today?
+
+## Seizures
+- Disruption of normal electrical activity in the brain
+- **Adults**: Common cause = not taking antiseizure meds
+- **Children/Infants**: Often caused by high fever (febrile seizure)
+
+### Generalized Seizure (Grand Mal)
+- Dramatic presentation
+- Loss of muscle control
+- Spasms
+- Life-threatening
+
+### Status Epilepticus
+- 3+ seizures in a row
+- Life-threatening
+
+### Seizure Management
+- Protect patient from injury
+- Do NOT place anything in mouth
+- If they regain consciousness, assess
+- If not, place in recovery position
+
+## Stroke
+- Leading cause of disability/death in adults
+- Caused by blocked artery or bleeding in the brain
+- Without O₂, brain cells die within minutes
+- **Get patient to stroke center within 2 hours**
+
+### Stroke Signs/Symptoms
+- Headache
+- Confusion or AMS
+- Unresponsive
+- High BP
+- Loss of facial muscle control
+- Vision changes
+- Combative behavior
+
+## Cincinnati Prehospital Stroke Scale
+
+| Test | Normal | Abnormal |
+|------|--------|----------|
+| **Facial Droop** | Both sides move equally | One side does not move well |
+| **Arm Drift** | Both arms move equally or hold | One arm drifts or does not move |
+| **Speech** | Correct words, no slurring | Slurs, wrong words, or cannot speak |
+
+**Ask: "When was the last time someone saw them normal?"** - Helps determine stroke timing
+
+---
+
+# Respiratory Emergencies
+
+## Chronic Obstructive Pulmonary Disease (COPD)
+- Affects lungs, causes permanent change
+- Common to be on low-flow O₂ or inhalers
+- Two types:
+  - **Bronchitis**: Mucus, larger airway disease
+  - **Emphysema**: Destruction/loss of alveoli
+- ↓ Gas exchange efficiency
+- **Most common cause**: Smoking
+
+---
+
+# Cardiovascular Emergencies
+
+## Ischemic Heart Disease
+- Plaque builds in arteries, ↓ oxygen
+- The heart needs more O₂ under stress
+- Angina Pectoris = Chest pain due to low oxygen, no cell damage
+- If prolonged, may lead to **Myocardial Infarction**
+
+### Risk Factors
+- Old age
+- High BP
+- Smoking
+- Diabetes
+- Obesity
+- Stress
+- Sedentary lifestyle
+
+## Myocardial Infarction (Heart Attack)
+- Death of heart muscle due to O₂ loss
+- Chest pain may radiate:
+  - Jaw, left shoulder, or left arm
+- Signs:
+  - Chest pain (substernal)
+  - Irregular HR
+  - BP drop
+  - Pale/sweaty
+  - Nausea/vomiting
+  - Feeling of doom
+- **Use OPQRST** to assess chest pain
+
+## Silent Heart Attacks
+- **More common in elderly, women, diabetics**
+- May only report vague discomfort
+- May not feel classic chest pain
+
+## Sudden Cardiac Death (Cardiac Arrest)
+- Electrical failure of heart
+- May collapse suddenly
+- Often linked with **AED** use
+- CPR + early defib = critical
+- Place in recovery position if unresponsive and vomiting
+
+---
+
+# Abdominal Emergencies
+
+## AAA – Abdominal Aortic Aneurysm
+- **Life threatening**
+- Sudden tearing pain in back or abdomen
+- Can rupture and lead to death
+
+## Anaphylaxis
+- Severe allergic reaction
+- Causes: foods, meds, insect stings
+- Airway swelling, BP drop
+- Treat with EpiPen & O2
+- Maintain airway
+
+## Gastrointestinal Bleeding
+- Vomiting bright red blood or coffee ground material
+- Lower GI bleeding = red blood in stool
+- Monitor for shock: pale, cool skin, tachycardia
+- Maintain airway, administer O2
+
+---
+
+# Diabetes
+
+- Pancreas does not produce enough insulin
+- **Type 1**: Juvenile, insulin-dependent
+- **Type 2**: Non-insulin dependent (95% of cases)
+- Obesity is the main cause of Type 2
+- Gestational diabetes: triggered by pregnancy
+
+## Diabetic Emergencies
+
+| Type | Onset | Cause |
+|------|-------|-------|
+| **Hypoglycemic** | Rapid | Low sugar, insulin shock |
+| **Hyperglycemic** | Slow | High sugar, diabetic coma |
+
+## Diabetic Assessment
+- Did you eat today?
+- Did you take your insulin?
+- Is your pump working?
+- Glucometer check
+
+---
+
+# General Assessment Guidelines
+
+## General Medical Complaints
+- **Signs** = objective (seen/measured)
+- **Symptoms** = subjective (felt by patient)
+- Examples:
+  - BP/HR/temp/respirations
+  - SOB, nausea, dizziness, pain, tingling
+
+## General Assessment of Medical Patient
+- Use **systematic approach**
+- Be consistent
+- Use standardized medical guide

@@ -220,5 +220,78 @@
 - **Schedule 1** → No medical use, high abuse potential
 - **Schedule 2** → HIGH dependency, accepted medical use
 
+## Blast Injuries
+
+### Types of Blast Injuries
+- **Primary:** Pressure wave injuries (affects hollow organs, lung damage)
+- **Secondary:** Flying debris (penetrations, blunt trauma)
+- **Tertiary:** Patient thrown (skeletal trauma, fractures)
+- **Quaternary:** Other blast injuries (burns, psychological trauma)
+
+**Scene safety is the first priority**
+
+## Hypothermia Classification
+
+| Type | Temperature | Signs |
+|------|-------------|-------|
+| **Mild** | 95–90°F | Apathy, impaired judgment, shivering |
+| **Moderate** | 90–82°F | Decreased consciousness, muscle stiffness |
+| **Severe** | <82°F | Unresponsive, weak pulse |
+
+**Look for pulse for one full minute before CPR**
+
+## Behavioral Emergencies
+
+### Scene Safety
+- **Your safety is #1**
+- **Always consider suicidal persons to be homicidal too**
+- **Never lose sight of your patient**
+- **Maintain safety**
+
+### High Risk Factors for Suicide
+- **Depression**
+- **Previous attempts**
+- High stress, age, substance abuse
+
+### Excited Delirium
+- **Life threatening**
+- Requires medical attention
+- **Positional asphyxiation risk** in restrained individuals
+
+## Body Armor Types
+- **IIIA** (Know for test)
+
+## Less Lethal Impact Zones
+- **Zone 1 (Green):** Thighs, buttocks, calves - **Safest**
+- **Zone 2 (Yellow):** Abdomen, joints - **Moderate risk**
+- **Zone 3 (Red):** Head, neck, chest, spine - **High risk, avoid**
+
+## Toxicology Routes of Exposure
+- **Inhalation**
+- **Ingestion**
+- Skin Contact
+
+## Medical Emergencies
+
+### Altered Mental Status (AMS)
+- **Patients with AMS should not be allowed to refuse care**
+- Check for diabetes
+
+### Stroke
+- **Get patient to stroke center within 2 hours**
+- Cincinnati Scale: Facial droop, arm drift, speech
+
+### Heart Attack Signs
+- **More common in elderly, women, diabetics** (silent attacks)
+- Use OPQRST to assess chest pain
+
+### Abdominal Aortic Aneurysm (AAA)
+- **Life threatening**
+- Sudden tearing pain in back or abdomen
+
+### Diabetes Types
+- **Type 1:** Juvenile, insulin-dependent
+- **Type 2:** Non-insulin dependent (95% of cases)
+
 ---
 *For complete details, see [[First Responder & Medical Response]]*

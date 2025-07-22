@@ -586,3 +586,161 @@ You need **facts and circumstances** that lead to probable cause
 - **Statement against own interests**
 - **Highly likely is first-hand info**
 - **Corroborated by police**
+
+---
+
+# Stop & Frisk Procedures
+
+## Stop & Frisk – Persons
+
+### 1. Legal Justification of Frisk
+
+- Must be a **lawful stop**
+- Must have **reasonable suspicion** of dangerous weapons on person
+- Questions to ask:
+  - Was suspected crime weapon-related?
+  - Do they have a criminal record?
+  - Behavior?
+  - Bulge in clothing?
+  - Attempt to hide something?
+  - Hands repeatedly move to pockets?
+
+### 2. Legal Scope of Frisk
+
+- Limited to **outer clothing**
+- **Plain Feel Doctrine**: may remove item if it's clearly contraband within time needed to determine it's not a weapon
+- Limited search of **containers/bags** if weapon-like object seen or felt
+- If concern but cannot open reasonably → **isolate** it
+
+## Stop & Frisk – Vehicle
+
+- Must be a lawful stop
+- **Reasonable suspicion required to stop a vehicle**
+
+---
+
+# Searches Incident to Arrest (SIA)
+
+## Requirements for Search Incident to Arrest
+
+### 1. To search incident to arrest:
+- Must be a **lawful custodial arrest**
+- Supported by **probable cause**
+- Can occur on public or private property
+
+### 2. Must happen at/near time of arrest
+- Delay may indicate safety threat or evidence destruction
+
+### 3. Valid Reasons to Wait:
+- Need for privacy
+- Hostile environment
+- Hostile subject(s)
+
+## SIA Search Scope
+
+### On Private Property:
+- Full body
+- Leaping/lunging range
+- Interior passenger compartments (not trunk)
+
+> [!note] Generally reachable areas without exiting the vehicle
+
+### SIA Scope Ends When:
+- Subject is removed from area
+- Justification begins to **dissipate**
+
+## Scope of Search with Arrest Made in a Home
+
+- May search within **leap/lunge distance**
+- Must be **plain view**, supported by probable cause
+
+---
+
+# Arrest Procedures
+
+## Arrest at Residence
+
+### 8. To arrest a subject at their residence:
+- For forcible entry, officer must have:
+  - Reason to believe person is inside
+  - Arrest warrant OR exigent circumstances
+
+#### At 3rd-party residence:
+- No consent or emergency = prohibited
+- Felony arrest warrant only
+- SW for suspect required
+- Must protect **3rd-party privacy**
+- **"Hot pursuit" may allow entry without warrant**
+
+> [!important] Cannot arrest for **minor crime** in private place. Must be a **felony**. Court ruled **DWI = minor crime**.
+
+### 9. Arrest Authority
+- Officer may arrest for any offense
+  - Includes traffic offenses + ordinance violations
+  - Even infractions with only fine penalty
+- RSMo § 544.216
+
+### 10. Penalties for Unlawful Arrest (No PC / Warrant)
+- Suppression of statements/evidence
+- Officer charged with **rights violation**
+- Civil and criminal liability
+
+---
+
+# Vehicle Searches Without a Warrant
+
+## Motor Vehicle Stops
+
+### 1. To Stop a Motor Vehicle:
+- Must have **reasonable suspicion of criminal conduct** or **PC of traffic violation**
+
+### 2. Additional Officer Actions:
+- Ask for license/registration/insurance
+- Ask for consent to search
+- Control occupants
+- Drug dog sniff from outside
+- Plain view evidence = probable cause
+- Portable containers may be searched if PC exists
+- Search ends when evidence no longer present
+
+### Probable Cause in Vehicle = Full Search
+- May search **any part** of the vehicle that could contain the item
+- **If PC is container-specific** and not found there → container search ends
+
+## Special Cases
+
+### Mobile Homes
+- If detached and affixed to ground = **not mobile**, needs warrant
+- If mobile = treat like a vehicle
+
+---
+
+# Emergency and Consent Searches
+
+## Emergency Search
+- Must reasonably believe emergency exists
+- Limited to scope of emergency
+- Once under control → search must end
+
+## Consent Searches
+- Must be **voluntary**
+- Person consenting must have **authority**
+- May revoke or limit search at any time
+- Be aware of tone, # of officers, time of day
+
+---
+
+# Physical Evidence Collection
+
+## No Warrant or Consent Needed IF:
+- Collecting physical evidence from a person
+- e.g., stomach pumping, holding down for blood draw
+- **"Shocking to conscience"** → Suppressed
+
+### Other ways to get physical evidence:
+- Consent
+- Court order
+- **Grand Jury Subpoena**
+
+
+> [!quote] "Your badge is a shield. Use your shield to protect others, not yourself."
