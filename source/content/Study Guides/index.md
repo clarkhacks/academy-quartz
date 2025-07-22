@@ -13,6 +13,16 @@ Quick reference guides for police academy training materials. These condensed st
 - Search warrants and Fourth Amendment
 - Contact, detention, and arrest levels
 
+### [[Statutory Law Study Guide]]
+- Offense classifications and time limitations
+- Mental states and criminal defenses
+- Use of force and justification laws
+- LEO arrest authority and procedures
+- Attempt and conspiracy elements
+- Homicide and assault classifications
+- Search and seizure statutory requirements
+- Mental health detention procedures
+
 ### [[First Responder & Medical Response Study Guide]]
 - Combat gauze application and bleeding control
 - Chest injuries and respiratory emergencies
@@ -21,6 +31,12 @@ Quick reference guides for police academy training materials. These condensed st
 - Choking response techniques
 - Officer wellness and stress management
 - Consent types and legal responsibilities
+- Fire safety and extinguisher operations
+- Hazmat response and vehicle safety
+- Vital signs assessment and patient care
+- Burns management and treatment
+- Pharmacology and medication administration
+- Splinting and trauma response
 
 ### [[Patrol Operations Study Guide]]
 - Officer preparation and appearance standards
@@ -60,6 +76,7 @@ Quick reference guides for police academy training materials. These condensed st
 ## Related Resources
 
 - [[Constitutional Law]] - Full constitutional law notes
+- [[Statutory Law]] - Complete Missouri statutory law and criminal code
 - [[First Responder & Medical Response]] - Complete medical response training
 - [[Patrol Operations]] - Detailed patrol procedures and tactics
 - [[Report Writing]] - Comprehensive report writing instruction

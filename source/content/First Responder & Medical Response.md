@@ -521,3 +521,510 @@ Many departments provide:
 6. **Repeat until the infant cries or coughs**
 
 **If unresponsive, begin CPR**
+
+---
+
+# Additional First Responder Notes
+
+## Reporting & Dispatch
+
+- **Reporting is the activation of EMS**
+- **Bystanders / Responders**
+- Usually involves calling dispatch or 911
+- Dispatch centers react on information given to them and can pass on only what they've been told
+
+## First Response
+
+- **LERs are heavily involved at this stage**
+- LEOs, agents, and security officials are frequently at the point of attack
+
+### LER may be responsible for taking charge (Incident Command)
+
+### Scene Safety Priorities:
+- Scene Safety
+- Triage
+- Incident Command
+- EMS Operations
+
+### Additional Notes:
+- **Hazmat could be used as a weapon** to limit your effectiveness on scene
+
+### Take precautions for:
+- Tornadoes
+- Flooding
+- Blizzards
+- Lightning
+
+## Triage: Sorting
+
+**Mass Casualty Incident:**
+When the number of patients exceeds the number of responders.
+
+**START Triage**
+(Simple Triage and Rapid Treatment)
+
+### Triage Categories:
+- **Red**
+- **Yellow**
+- **Green**
+- **Black**
+
+## Personal Protective Equipment (PPE)
+
+- Ballistic Vests
+- Helmets
+- Shields
+- Gloves (latex and leather)
+- Glasses
+- Goggles
+- Boots
+- In cold weather: protection by wool socks
+- In puncture risk: puncture-resistant boots
+
+## Defense & Safety
+
+- May have to defend yourself and others
+- Fight back to neutralize threat
+
+### Cover vs Concealment:
+- **Cover:** Protection
+- **Concealment:** Hidden without protection
+
+## Patient Assessment
+
+Assess the patient:
+- START Triage
+- Breathing
+- Circulation
+- Mental Stability
+
+## Medical Restraints
+
+- They do not replace handcuffs. Keep the cuffs on them
+
+### Restraint Safety:
+Avoid restraining systems that restrict the upper airway or provide undue compression against the chest.
+
+## Common LER Roles at Fire Incident
+
+**Primary Tasks:**
+- Assist evac
+- Extinguish
+- Aid injured or ill
+
+**Secondary Tasks:**
+- Traffic
+- Evidence Preservation
+- Investigation
+
+## 3 Components of Fire
+
+1. **Fuel** - Can be: Solid, liquid, gas - Anything that can burn
+2. **Oxygen** - Usually present in adequate air
+3. **Heat** - For fuel to burn, it must be heated to combustion temperature
+
+> [!important] To extinguish fire, must remove one of the three components
+
+## Smoke Inhalation
+
+- **Severe injury or death**
+- **Full of toxic gases**
+- **Use caution to avoid it**
+
+### Fire Safety & Extinguishing Notes
+- **SCBA for fire** - We don't have these, we use a mask
+- **LERs should not use their gas mask in a fire**
+- Gas masks provide no protection from lack of oxygen
+
+## Fire Classes
+
+| Class | Type | Extinguish With |
+|-------|------|----------------|
+| **Class A** | Wood, paper, textiles | Water |
+| **Class B** | Gasoline, kerosene, oils | Dry foam, foam, dry chemicals, CO₂ |
+| **Class C** | Class A/B but with electrical hazards | CO₂ |
+| **Class D** | Burning metals | Salt-based (NO WATER) |
+| **Class K** | Kitchen grease, oils | Oxygen-suppressing agent |
+
+## 3 Common Types of Extinguishers
+
+- Air pressurized water
+- CO₂
+- Dry Chemical
+
+## Fire Extinguisher Inspection
+
+**Check:**
+- Gauge
+- Inspection tag
+- Pin & handle
+- Hose
+
+**Once over on can:**
+- Rust
+- Dents
+
+### Fight or Flee Guidelines:
+- **Overhead?** → GTFO
+- **Close windows/doors** if possible
+- **If black smoke?** → GTFO
+- **Know means of escape**
+
+> [!tip] Park where it doesn't interfere with firefighters
+
+## PASS Method for Fire Extinguishers
+
+1. **Pull** pin
+2. **Aim** nozzle at base of fire
+3. **Squeeze** lever to discharge
+4. **Sweep** nozzle side to side
+
+## Hazmat Response
+
+**Important: ID the substance involved**
+
+**Position:** Uphill, upwind
+
+**Look for:**
+- Placards
+- Labels
+- Containers
+- Sizes/shapes of tanks
+
+> [!warning] Be aware of secondary explosions
+
+## Radiation Types
+
+- Alpha
+- Beta
+- Gamma
+- Neutron
+
+## Vehicle Extrication
+
+**Motor vehicle crashes:**
+- Stabilize scene
+- ID how to get to patient
+
+**Rapid Extrication:**
+- Uncontrolled vehicle fire
+- Unstable terrain
+
+### Scene Safety Notes
+- Know your limitations
+- Control traffic flow
+- Fire apparatus are large
+- LE vehicles may be used to block lanes
+- Also acts as wall for responders
+
+### Cribbing Vehicle:
+Blocking it up to secure it
+
+**Disconnect the Battery** - Some are in trunk or under seats
+
+### Major Goals of Gaining Access:
+- Gain access to patient
+- ID airbags if undeployed
+- Extract patient
+- Turn off or disconnect battery
+- Use window punch or anything possible
+- Leave person in place unless life is in imminent danger
+
+## Water Rescue
+
+- **Many are killed attempting water rescue**
+- We have hung gear & boots on
+
+### Floods Kill:
+- Full of sewage
+- Fast
+- Overpowering
+- **All submersion victims need to be seen by a doctor**
+- **Dry drowning**
+
+## Body Positions
+
+- **Supine:** Laying on back
+- **Prone:** Laying on face
+- **Laterally Recumbent:** Laying on side
+- **Recovery Position:** Laying on side
+- **Bilateral:** Appearing on both sides
+- **Homeostasis:** Normal levels
+
+## Body Functions
+
+- **Oxygenation:** Moving oxygen through body
+- **Respiration:** Exchange of O₂ and CO₂ in lungs
+- **Perfusion:** Flow through the body
+
+## Skeletal System
+
+- **Ligament:** Bone to bone
+- **Tendon:** Muscle to bone
+- **Hinge Joint:** 1 plane
+- **Ball & Socket Joint:** Rotation + Bending
+
+### Spinal Sections (5)
+1. Cervical
+2. Thoracic
+3. Lumbar
+4. Sacrum
+5. Coccyx
+
+## 3 Types of Muscles
+
+- Skeletal
+- Smooth
+- Cardiac
+
+## Respiratory System
+
+**Function:** In: O₂, Out: CO₂
+**Location:** Lungs
+
+- **Inspiration:** Breathing in
+- **Expiration:** Breathing out
+- **Ventilation:** Both
+
+## Circulatory System
+
+**Function:** Pump blood through body
+
+**Components:**
+- Heart
+- **Arteries** = Outgoing
+- **Veins** = Return
+
+### Blood Components:
+- **Red blood cells:** Carry oxygen
+- **White cells:** Fight infection
+- **Platelets:** Form clots
+
+## Skin (3 Functions)
+
+1. Protection from environment
+2. Body temp regulation
+3. Receives outside info
+
+**Layers:**
+- **Epidermis:** Outside layer
+- **Dermis:** Inside, below epidermis
+
+## Nervous System
+
+- Brain
+- Spinal Cord
+
+## Digestive System
+
+- Stomach
+- Gallbladder
+- Large/Small Intestine
+- Liver
+- Pancreas
+- **Epiglottis:** Flap of tissue preventing food/water from entering larynx
+
+## Patient Assessment Guidelines
+
+**When Assessing a Patient:** Use 5 senses
+
+### Scene Size-up
+- Number of patients
+- Triage necessary?
+- Trauma or medical?
+- Is sick?
+- **Nature of Illness (NOI)**
+- **Mechanism of Injury (MOI)**
+
+## Vital Signs
+
+**Adult Respiratory Rate:** 12–20 BPM (Breaths per minute)
+
+### Pulse Points
+- Temporal Artery
+- Carotid Artery
+- Brachial Artery
+- Radial Artery
+- Popliteal Artery
+- Posterior Tibial Artery
+
+**Capillary Refill Normal:** < 2 seconds (Nailbed = good spot)
+
+**Blood Glucose Average:** 70–100 mg/dL
+**Pulse Oximetry:** 95–100%
+
+**Injured/sick female** → Ask if pregnant
+
+### Reassess:
+- **Every 5 min for unstable**
+- **Every 15 min for stable**
+
+## Airway & Breathing Details
+
+**4–6 minutes = Irreversible damage without O₂**
+
+**Snoring respiration**
+**Tongue = most common obstruction**
+**Blood, teeth, vomit = other obstructions**
+
+**Equipment to bring:**
+- NPA
+- Lube
+- Whistle
+
+> [!note] We can help with giving oxygen (Not meds)
+
+## MOI (Mechanism of Injury)
+
+### 3 Forms:
+- Direct Force
+- Indirect Force
+- Twisting
+
+## Splinting
+
+**Check PMS:**
+- **Pulse, Motor, Sensitivity** at injury site
+
+**Do PMS first + last, before & after splinting**
+
+## Bone & Tissue Injuries
+
+### 2 Types of Bone Injuries:
+- Fractures
+- Dislocations
+
+### 2 Types of Supporting Tissue Injuries:
+- Sprains
+- Strains
+
+### 2 Types of Fractures:
+- **Open** – Out of skin
+- **Closed** – In skin
+
+**Amputations:** Try to bring it with the patient
+
+## 4 Types of Soft Tissue Wounds
+
+### Abrasions:
+- Scrape, surface-level
+
+### Lacerations:
+- Cuts, may bleed severely
+
+### Avulsions:
+- Flaps of skin
+- Significant bleeding
+- Usually a tear
+
+### Penetrations:
+- Puncture wounds
+- Any depth
+- Internal bleeding could be severe
+
+## Impaled Objects & Chest Wounds (Additional Details)
+
+- **Impaled objects could have lots of debris behind**
+- **Do not remove impaled objects** unless impairs airway or prevents CPR
+- **Occlusive dressings** for open chest wounds
+- **Stabilize impaled objects**
+
+## Burns (Expanded)
+
+### Causes:
+- Fire
+- Steam
+- Chemical
+- Electrical
+
+**Severity determined by:** depth, cause, coverage, area
+
+### Burn Depths
+- **Superficial Burn** = Surface (1st degree)
+- **Partial Thickness** = Outer + Middle layers (2nd degree)
+- **Full Thickness** = All 3 layers; nerve damage likely (3rd degree)
+
+### Severe Burns
+- **20% = Children**
+- **25% = Adults**
+- **Hands, feet, face, genitals** = automatically severe
+- **Rule of 9s** (Reference page 361)
+
+### Managing Burns
+1. **STOP the burn first** - Depends on severity
+2. **Remove patient from source**
+3. **Remove clothing** if possible
+4. **Remove chemicals**
+5. **Monitor ABCs**
+6. **Keep warm/calm**
+7. **Smoke inhalation:** look around eyes, nose, mouth
+
+## Head & Neck Injuries (Expanded)
+
+### Closed/Open Head Injuries
+- **Severe face/head/neck** = suspect spine injury
+- **Immobilize head neutrally**
+- **Spinal immobilization**
+
+### Neck Injuries Signs:
+- Air under neck skin
+- Bruising
+- Bleeding
+- Swelling
+
+**Air Embolism:** Air in vein/artery blocking flow
+
+## Shock (Expanded)
+
+**Definition:** Ability to move oxygen to the cells is affected
+
+### Shock Types + Causes:
+- **Cardiogenic:** Heart failure
+- **Spinal:** Brain can't message to shrink blood vessels
+- **Septic:** Toxins from infection open vessels
+
+### 3 Categories of Shock
+1. **Compensated:** Early, body can keep up
+2. **Decompensated:** Late, body can't keep up
+3. **Irreversible:** Leads to death, last stage
+
+### Treat Shock
+- Supine
+- Blankets for warmth
+- Provide oxygen
+
+## Pharmacology
+
+**Generic Names + Brand Names**
+**Process:** Absorbed → bloodstream → distributed → metabolized → excreted
+
+### LERs & Medication Assistance
+LERs can help patient with their own meds
+
+### Drug Administration Routes
+**Standard Routes:**
+- Inhalation
+- IV
+- IM (Intramuscular)
+- Oral
+- Sublingual
+
+**Emergency Routes:**
+- Intraosseous injection
+- Rectal
+- Subcutaneous injection
+- Transcutaneous (through skin)
+
+### 5 Rights of Medication
+1. Right patient
+2. Right medication
+3. Right dose
+4. Right route
+5. Right time
+
+### Drug Schedules
+- **Schedule 1** → No medical use, high abuse potential
+- **Schedule 2** → HIGH dependency, accepted medical use
+- **Schedule 3** → [To be filled in]
+
+> [!warning] Do NOT provide assistance with meds if they don't have their prescription

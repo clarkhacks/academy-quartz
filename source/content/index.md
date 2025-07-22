@@ -1,6 +1,6 @@
 # Police Academy Notes
 
-Comprehensive training materials and documentation from police academy coursework. These notes cover essential topics for law enforcement training and serve as reference materials for academy students.
+Comprehensive training materials and documentation from police academy coursework. These notes cover essential topics for law enforcement training and serve as reference materials for officers and academy students.
 
 ## Core Academy Subjects
 
@@ -14,6 +14,18 @@ Fundamental legal principles governing law enforcement activities, including:
 - Court procedures and legal processes
 - Contact, detention, and arrest authority
 
+### [[Statutory Law]]
+Missouri statutory law governing criminal offenses and law enforcement procedures:
+- Offense classifications and statute of limitations
+- Mental states and criminal defenses
+- Use of force and justification statutes
+- LEO arrest authority and search procedures
+- Attempt and conspiracy laws
+- Homicide and assault classifications
+- Search warrant requirements and execution
+- Mental health detention procedures
+- Weapons definitions and armed criminal action
+
 ### [[First Responder & Medical Response]]
 Critical medical and emergency response training for law enforcement officers:
 - Combat gauze application and bleeding control
@@ -23,6 +35,13 @@ Critical medical and emergency response training for law enforcement officers:
 - Officer wellness and stress management
 - Medical consent and legal responsibilities
 - Forensic awareness in medical situations
+- Fire safety and suppression techniques
+- Hazmat response and scene safety
+- Vehicle extrication and emergency operations
+- Vital signs assessment and patient monitoring
+- Burns treatment and trauma management
+- Pharmacology and medication assistance
+- Triage and mass casualty incidents
 
 ### [[Patrol Operations]]
 Essential patrol procedures and tactical considerations:
@@ -61,6 +80,7 @@ Traffic enforcement procedures and Missouri-specific regulations:
 ### [[Study Guides/]]
 Condensed study guides for rapid review and exam preparation:
 - [[Study Guides/Constitutional Law Study Guide]]
+- [[Study Guides/Statutory Law Study Guide]]
 - [[Study Guides/First Responder & Medical Response Study Guide]]
 - [[Study Guides/Patrol Operations Study Guide]]
 - [[Study Guides/Report Writing Study Guide]]
@@ -89,4 +109,3 @@ These notes are organized to support progressive learning:
 
 ## Additional Resources
 - **Study Guides Index** - [[Study Guides/index]] - Quick access to all study materials
-
