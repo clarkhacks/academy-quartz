@@ -13,6 +13,14 @@ Fundamental legal principles governing law enforcement activities, including:
 - Exclusionary rule and evidence admissibility
 - Court procedures and legal processes
 - Contact, detention, and arrest authority
+- Stop and frisk procedures
+- Search incident to arrest guidelines
+- Vehicle search protocols
+- Emergency and consent search rules
+
+**Additional Resources:**
+- [[Constitutional Law/Test Review - Answered]] - Comprehensive test preparation
+- [[Constitutional Law/Objectives - Answered]] - Course objectives with detailed answers
 
 ### [[Statutory Law]]
 Missouri statutory law governing criminal offenses and law enforcement procedures:

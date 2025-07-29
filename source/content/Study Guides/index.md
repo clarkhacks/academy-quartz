@@ -12,6 +12,11 @@ Quick reference guides for police academy training materials. These condensed st
 - Miranda requirements
 - Search warrants and Fourth Amendment
 - Contact, detention, and arrest levels
+- Stop and frisk procedures
+- Search incident to arrest guidelines
+- Vehicle search protocols
+- Emergency and consent search rules
+- Physical evidence collection methods
 
 ### [[Statutory Law Study Guide]]
 - Offense classifications and time limitations
@@ -76,6 +81,8 @@ Quick reference guides for police academy training materials. These condensed st
 ## Related Resources
 
 - [[Constitutional Law]] - Full constitutional law notes
+  - [[Constitutional Law/Test Review - Answered]] - Comprehensive test preparation
+  - [[Constitutional Law/Objectives - Answered]] - Course objectives with detailed answers
 - [[Statutory Law]] - Complete Missouri statutory law and criminal code
 - [[First Responder & Medical Response]] - Complete medical response training
 - [[Patrol Operations]] - Detailed patrol procedures and tactics
