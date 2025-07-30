@@ -438,3 +438,293 @@
 - Address counterarguments
 - Use proper legal terminology
 
+---
+
+## Search Incident to Arrest - Detailed Analysis
+
+### Scope of Search in Public Place
+1. **Full body search** of arrested person
+   - Seize weapons (officer safety) and escape tools
+   - Seize evidence to prevent destruction
+   - Seize contraband (illegal to possess)
+   - Includes items immediately associated with suspect's body:
+     - Wallet/purse — for weapons/evidence
+     - Briefcases, suitcases, etc. — need warrant or consent if locked
+     - Property may be impounded while waiting for warrant
+2. **Areas around the person** in open fields/public = no expectation of privacy
+
+### Scope of Search on Private Property
+1. **Full body search** of arrested person
+2. **Search area within immediate control** and just beyond "leaping/lunging" distance
+3. **Chimel v. California** — defined the "Chimel Circle"
+   - Courts limited search to areas suspect could lunge into
+   - Includes containers, drawers, cabinets suspect had access to
+   - *"A gun on a table or drawer in front of one arrested is as dangerous as one in the clothing."*
+4. **Once suspect is removed**, SIA justification **ends**
+   - Can search while transporting
+   - Must get new warrant if trying to return later
+
+### Scope of SIA in a Vehicle
+1. **Full body search**
+2. **Interior search only if:**
+   - Occupants aren't secured from vehicle access, **OR**
+   - It is **reasonably likely** that vehicle contains evidence of the crime
+   - **(Arizona v. Gant, 2009)**
+   - **NOTE**: Cannot leave suspect unsecured on purpose to justify SIA
+3. **Area within immediate control** or "lunge" range:
+   - Same principle as a building
+   - Includes glove box and containers (not trunk)
+   - **U.S. v. Doward (1994)** — interior includes anything reachable without exiting
+   - **U.S. v. Olguin-Rivera (1999)**: Even covered panels reachable from seat = searchable
+
+### Additional SIA Vehicle Rules
+- Search includes **area where driver could have thrown evidence**, not just did
+- **8th Circuit** agreed with **Barnes (2004)**
+- Principle: Areas **reachable without exiting** vehicle may be searched
+- Pulling back seat and using flashlight = legal search (Barnes)
+- **Closed containers** can be searched
+- **Locked containers** may require key, combo, or PC for warrant
+- **Searching trunk via drop-down seat access** = legally unclear
+
+### SIA vs. Motor Vehicle Exception (MVE)
+**Search Incident to Arrest (SIA):**
+- Based on PC to arrest
+- No specific knowledge of evidence needed — only *reasonable likelihood*
+- Can search person + area to prevent destruction of evidence or weapon access
+
+**Motor Vehicle Exception (MVE):**
+- Based on **PC to search**, not arrest
+- Must reasonably believe evidence/contraband is in vehicle
+- Exception to warrant requirement
+
+---
+
+## Traffic Stops and Vehicle Searches
+
+### Actions After a Traffic Stop
+1. **Order driver or passengers out** — *Maryland v. Wilson (1997)*
+2. **Ask for license/insurance** — *Delaware v. Proust (1979)*
+3. **Ask questions** — *Berkemeyer v. McCarty (1984)*
+   - If not arrested, Miranda not required
+4. **Locate and examine VIN** — *U.S. v. Class (1986)*
+   - Evidence in plain view during VIN check is admissible
+5. **Visual inspection of interior** — *Texas v. Brown (1983)*
+   - Only allowed in public/quasi-public locations
+6. **Drug dog sniff** — *IL v. Caballes (2005)*
+   - No privacy expectation, but must not prolong stop
+7. **Control and delay stop only briefly**
+8. **Ask for consent to search vehicle**
+   - If denied and no R/S or P/C, suspect must be allowed to leave
+
+### Motor Vehicle Exception Searches (MVE)
+**For mobile vehicles, MVE = same as search warrant in justification/scope**
+
+#### A. Justification
+- PC that evidence is in vehicle
+- Must be apparently mobile
+- PC to arrest ≠ PC to search
+
+#### B. Scope
+- Every part of vehicle and contents
+- Must relate to **object of search** (evidence, contraband, weapons)
+- Can frisk if separate R/S that occupant is armed
+
+#### C. Containers
+1. **Any container** may be searched (open, closed, locked) if PC exists
+2. **Container-specific PC**: Search ends if item not found
+   - Can't expand scope unless PC shifts
+3. **Ownership doesn't matter** — unassociated passenger items may be searched
+
+#### D. Time/Location
+1. Search can be **immediate**
+2. Can be **delayed** if PC was developed before vehicle seized
+3. Can search on **private property** with lawful access
+4. **Mobile homes = cars** if mobile — *CA v. Carney*
+   - Trailers need to meet "mobile" criteria
+
+**NOTE**: Must establish PC **before vehicle is made immobile**
+
+---
+
+## Emergency and Exigent Circumstances
+
+### Searches Under Emergency/Exigent Circumstances
+**Justification:**
+- PC to believe emergency exists (e.g., screaming, fire, destruction risk)
+- Ends when emergency ends — then need new justification
+
+**Scope:**
+- Limited to **where emergency requires**
+- May seize items in **plain view**
+
+### Curtilage as Crime Scene
+- **Private property does not become public** because a crime happened
+- Must still have **lawful interest** to enter
+
+---
+
+## Hearsay Rule Exceptions
+
+### A. Admissions and Confessions
+- Reliable if obtained voluntarily and with Constitutional Rights advisement
+- See Exclusionary Rule
+
+### B. Dying Declarations
+- Declarant must believe they are dying and be permanently unable to testify
+- Applies even if not technically dead (coma, unresponsive, etc.)
+- **If person recovers, declaration invalid**
+
+### C. Spontaneous Statements
+- Made without time to fabricate (e.g., stressful events)
+- Can be corroborated after occurrence
+
+### D. Present Memory Refreshed
+- Officer refreshes memory from report but must testify from memory
+- Opposing party may inspect report and cross-examine
+
+### E. Past Recollection Recorded
+- When officer can't remember even with report
+- Officer must verify report was made when memory was fresh
+- **Writing itself becomes the evidence**
+
+### F. Prior Testimony
+- Testimony from earlier court proceedings may be allowed if person unavailable
+
+### G. Unidentified Sources
+**Informants with protected identity may be admissible if:**
+1. Proven track record of reliability
+2. Testifies against self/others
+3. Provided detailed, compelling info
+4. Info corroborated by officer
+
+### H. Public Records
+- Admissible if no reason to suspect falsification
+- Assumed accurate due to lack of motive for falsifying
+- Includes minutes, tax records, license applications
+- **Not valid for lab tech reports**
+
+### I. Business Records
+- Assumed accurate and usable if person who made them is absent
+- Not admissible if recordkeeping process itself is in question
+- Examples: sales receipts, contracts, bills of lading
+
+---
+
+## Contact, Detention, and Arrest - Expanded
+
+### Three Levels of Police Contact
+
+| Level | Justification | Force | Search | Miranda |
+|-------|---------------|-------|--------|---------|
+| **Voluntary Contact** | Mere suspicion | None | None (except caretaking) | Not required |
+| **Detention** | Reasonable suspicion | Reasonable, non-deadly | Frisk of outer clothing for weapons | Not required unless clearly arrest |
+| **Arrest** | Probable cause | Reasonable, possibly deadly | Full body | Required |
+
+**Key**: A reasonable person feels free to leave = voluntary contact
+**Note**: Unreasonable use of **time, force, or movement** = **de facto arrest**
+
+### Reasonable Suspicion vs Probable Cause - Detailed
+
+**Reasonable Suspicion** – Facts leading reasonable person to *suspect*:
+1. A crime occurred/is occurring/is about to occur
+2. The person was criminally involved
+
+**Probable Cause** – Facts leading reasonable person to *believe*:
+1. A crime occurred/is occurring
+2. The person to be arrested was criminally involved
+
+### Sources of Facts for RS and PC
+- **Officer Knowledge**: Evidence, time of day, suspect reputation, demeanor, etc.
+- **Flight**: Unexplained flight is a factor; running from restricted area = RS
+- **Info from Reliable Persons**: LEOs, federal agents, dispatchers, known good citizens
+- **Criminal Informants** (see Unidentified Sources above)
+- **Anonymous Tips**: Usually not RS unless predictive + corroborated
+  - MO SC: non-predictive tips ≠ RS
+- **Note**: *Totality of circumstances* applies (*IL v. Wardlow*, 2000)
+
+---
+
+## Curtilage and Open Fields - Comprehensive
+
+### Essential Terms
+1. **Private Property** – Requires warrant or valid exception
+2. **Curtilage** – Requires same justification as premises
+3. **Open Field** – Can be searched if LEO shows investigative purpose
+4. **Public Area** – No legitimate expectation of privacy
+5. **Quasi-Public Area** – Limited privacy expectation
+
+### Four Curtilage Factors (*U.S. v. Dunn* – 1987)
+1. **Proximity to the home**
+2. **Included in enclosure**
+3. **Nature of use**
+4. **Steps taken to exclude others**
+
+### Curtilage Applications
+- In suburbs, curtilage = yard; in rural, depends on interpretation
+- **Quasi-public areas**: Walks from street to front door, front porches, pathways with no access restriction
+- **No business curtilage**
+- Public/private areas of buildings vary in privacy expectation
+- **Surveillance allowed** from public or quasi-public areas
+- Non-curtilage private property has reduced privacy
+- Officers may treat fenced land as **open field** if they have **investigative purpose**
+- Fenced property ≠ 4th Amendment violation if LEO has investigative purpose
+
+**Note**: *Reasonableness* is the key standard
+
+---
+
+## Plain View Doctrine - Expanded
+
+### Evidence/contraband can be seized without warrant if:
+
+#### For Surveillance
+- Officer sees item from **lawful vantage point**
+
+#### For Seizure
+- Officer has **probable cause** that item is evidence/contraband
+- Officer has **legal access** to area (**threshold rule**)
+
+---
+
+## Private Party Searches - Detailed
+
+### Rules
+- **4th Amendment doesn't apply** to private individuals
+- Evidence from private searches ≠ 4th Amendment issue
+- **LEO can repeat private search** if:
+  - Officer didn't direct it
+  - Officer doesn't intrude further than private person
+  - Info used to justify warrant or exigent entry
+
+---
+
+## Exclusionary Rule Case Law
+
+### Major Cases
+- **Weeks v. U.S.** (1914)
+- **Mapp v. Ohio** (1961)
+- **Silverthorne Lumber Co. v. U.S.** (1920)
+
+### Fruit of the Poisonous Tree
+- **Tainted evidence = inadmissible**
+- Applies to evidence **derived** from illegal source
+- **Exception**: *U.S. v. Patane* (2004) – voluntary confession w/o Miranda = admissible if physical evidence seized properly
+- **Coerced confessions = never admissible**
+
+### Good Faith Exception - Detailed
+**Major Cases**: *U.S. v. Leon* (1984), *Mass. v. Sheppard* (1984), *AR v. Evans* (1995)
+
+**Allowed when**:
+- Officer reasonably believes warrant is valid
+- Judicial or clerical error
+
+**NOT Allowed when**:
+1. Officer falsifies or fails to verify info
+2. PC is unreasonably weak
+3. Warrant is so flawed it's not believable
+
+**Note**: Fruit of the Poisonous Tree still applies unless **exception** applies
+
+---
+
+*This comprehensive review incorporates all primary constitutional law concepts and case law essential for test success. Focus on understanding the principles and their practical applications in law enforcement scenarios.*
