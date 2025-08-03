@@ -192,7 +192,194 @@
 
 ---
 
+## Chapter 8: Robbery, Arson, Burglary & Related Offenses
+
+### 8.2 Robbery Offenses
+
+### 8.3 Robbery in the First Degree (§570.023)
+**Elements**: Forcibly steals and:
+1. Causes serious injury, or
+2. Uses a deadly weapon, or
+3. Uses/threatens dangerous instrument, or
+4. Threatens with deadly weapon appearance, or
+5. Steals a controlled substance from a pharmacy
+
+### 8.4 Robbery in the Second Degree (§570.025)
+**Elements**: Forcibly steals and causes physical injury to another person
+
+---
+
+## Chapter 9: Stealing & Related Offenses (§570.010)
+
+### Key Definitions
+
+- **Credit device**: Any writing, number, or evidence authorizing payment of property or services to a person or bearer (used in fraud cases) (§570.010)
+- **Criminal negligence**: Fails to be aware of a substantial risk due to gross deviation from care expected
+- **Deceit**: False representation to defraud, gain consent, or avoid obligations (§570.010)
+- **Deprive**:
+    1. Withhold property permanently
+    2. Restore only upon payment or compensation
+- **Forcibly steals**: Uses/threatens immediate physical force for the purpose of theft (§570.030.5)
+- **Appropriate**: Take/obtain/use/transfer/conceal/retain property or services without consent
+- **Threat**: Express/communicated intent to:
+    1. Commit a crime/offense
+    2. Cause injury
+    3. Harm reputation
+    4. Accuse someone
+    5. Expose secrets
+    6. Take or withhold actions to coerce or gain benefit
+
+### 9.2 Determination of Value (§570.020)
+- Value determines felony/misdemeanor
+- For merchants, value is the regular replacement cost
+
+### 9.3 Stealing (§570.030)
+**Elements**: Appropriates property or services without consent and with intent to deprive (via deceit/coercion)
+
+#### Felony Thresholds & Aggregation
+- **Felony Threshold**: $750.00 is the felony value threshold for most property
+- **Class D Misdemeanor**: When property value is under $150 AND no prior stealing convictions
+- **Aggregation**: Multiple thefts from the same or several owners (even on different occasions) may be aggregated to determine felony grade
+
+#### OR Conditions for Felony:
+1. Prior guilty findings of 3 stealing-related offenses within 10 years
+2. Theft of a catalytic converter
+3. Theft of mail (letter, postal card, package, etc.) collected for delivery
+
+#### Class C Felony Conditions
+- Value of appropriated property is **≥ $25,000**
+
+#### Class D Felony Conditions
+- Value is **≥ $750**, or
+- Theft of:
+    - Motor vehicle/aircraft
+    - Credit/debit device or letter of credit
+    - Firearm (§571.010)
+    - Livestock (§144.010)
+    - Controlled substance (§195.010)
+
+### 9.4 Lost Property (§570.060)
+Taking lost property is **not** stealing if:
+- Person has no clue who owns it
+- No reasonable way to identify the owner
+
+### 9.5 Forgery (§570.090)
+A person commits forgery if they:
+- Have intent to defraud, and
+- Make, complete, alter, or authenticate any writing to appear as though made by another person
+
+### 9.6 Possession of Forging Instrumentality (§570.100)
+- **Class D Felony**
+- Possession of tools/devices used to make/alter documents with intent to commit forgery
+
+### 9.7 Passing Bad Checks (§570.120)
+**Elements**:
+1. Makes/passes check knowing it won't be honored
+2. Presents check with no account or insufficient funds
+3. No payment within 10 days of notice
+
+### 9.8 Fraudulent Purchase of a Firearm (§571.063)
+- **Class E Felony**
+- Persuading, encouraging, or transferring a firearm to someone who cannot legally own it
+
+### 9.9 Manufacturing/Possessing Forged ID (§570.138)
+- **Class D Felony**
+- Possession of **5+ fictitious/forged IDs** with intent to distribute for committing an offense
+
+### 9.10 Fraudulently Stopping Payment (§570.125)
+Writing a check and stopping payment with intent to defraud is a crime
+
+### 9.11 Fraudulent Use of a Credit Device or Debit Device (§570.130)
+- Fraudulent use of a credit/debit device = **class A misdemeanor**
+- If value ≥ $750 or 3+ offenses in 30 days = **class E felony**
+- **Credit device**: Includes writing, code, or number authorizing payment
+- **Debit device**: Includes cards used to electronically transfer funds
+
+### 9.12 Financial Exploitation of Elderly/Disabled (§570.145)
+**Elements**:
+1. Knowingly obtains control over their property
+2. Intending to permanently deprive or detrimentally affect them
+
+**Penalty**:
+- **Class A misdemeanor** if value is < $750
+- **Class E felony** if value is between $750 and $25,000
+- **Class D felony** if value is $25,000–$75,000
+- **Class C felony** if value is $75,000 or more
+
+**Exception**: Threshold remains **$50.00** for financial exploitation of elderly/disabled
+
+### 9.13 Commercial Bribery (§570.150)
+- **Class A Misdemeanor**
+- Committed when a person:
+    1. Solicits, accepts, or agrees to accept a benefit
+    2. Knowingly violates duty of loyalty/trust/fiduciary
+    3. As a disinterested party influencing outcomes improperly
+
+### 9.14 Trafficking in Stolen Identities (§570.224)
+- **Class B Felony**
+- Selling/manufacturing 5+ means of identification of separate persons with intent to commit fraud
+
+#### Deception Examples
+False statements/representations include:
+- Creating false impressions
+- Selling/advertising with false/misleading info
+- False promises of future performance
+- Failing to disclose legal impediments
+
+---
+
 ## Chapter 10: Armed Criminal Action & Weapons Offenses
+
+### 10.1 Armed Criminal Action (§571.015)
+A person commits this offense by:
+1. Committing a felony, AND
+2. Doing so with/through the use of a deadly weapon or dangerous instrument
+
+**Penalties:**
+- First offense: 3–15 years
+- Second: 5–30 years
+- Third: 10+ years
+- No probation/parole if firearm was possessed unlawfully
+
+**Comment**: This section adds additional punishment on top of the underlying felony (per Missouri v. Hunter, 1983)
+
+### 10.2 Possession, Manufacture, Sale of Prohibited Weapons (§571.020)
+A person is guilty if they knowingly manufacture, sell, repair, transport:
+- Explosive weapons
+- Projectiles with explosive/chemical charge
+- Gas guns
+- Switchblade knives
+- Knuckles
+- Any federally prohibited weapon
+
+### 10.3 Defacing a Firearm (§571.045)
+- **Class A Misdemeanor**
+- A person commits this offense by knowingly defacing any firearm (removal of serial number)
+
+### 10.4 Possession of a Defaced Firearm (§571.050)
+- **Class B Misdemeanor**
+- Knowingly possessing a firearm that is defaced
+
+### 10.5 Fraudulent Purchase of a Firearm (§571.063)
+- **Class E Felony**
+- A person commits this offense by persuading, encouraging, or transferring a firearm to someone who cannot legally own it
+
+### 10.6 Unlawful Possession of a Firearm (§571.070)
+A person commits this if they knowingly possess a firearm AND:
+- Are convicted of a felony
+- Are a fugitive
+- Are habitually intoxicated/drugged
+- Are mentally incompetent
+
+> [!note] Exception
+> Does not apply to the possession of an antique firearm
+
+### Weapons Definitions
+- **Deface**: Alter or destroy the manufacturer/importer's serial number or any other ID number/mark
+- **Switchblade Knife**: A knife with a folding blade that opens automatically
+- **Knuckles**: Hard instrument worn on fingers for punching
+- **Knife**: Dagger, dirk, stiletto, or similar; not pocketknives with blades < 4 inches
+- **Explosive Weapon**: Device made to cause death/injury/damage through explosion or poison gas
 
 - **Subsection 9**: Class B felony unless injury/death occurs → Then Class A felony
 - **Exception**: Does **not apply** to peace officers, corrections officers, military, etc. while performing **official duties**

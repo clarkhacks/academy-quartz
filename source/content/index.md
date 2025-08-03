@@ -4,7 +4,7 @@ Comprehensive training materials and documentation from police academy coursewor
 
 ## Core Academy Subjects
 
-### [[Constitutional Law]]
+### [[Completed Classes/Constitutional Law/Constitutional Law|Constitutional Law]]
 Fundamental legal principles governing law enforcement activities, including:
 - Standards of evidence and legal thresholds
 - Constitutional amendments and citizen rights
@@ -19,8 +19,10 @@ Fundamental legal principles governing law enforcement activities, including:
 - Emergency and consent search rules
 
 **Additional Resources:**
-- [[Constitutional Law/Test Review - Answered]] - Comprehensive test preparation
-- [[Constitutional Law/Objectives - Answered]] - Course objectives with detailed answers
+- [[Completed Classes/Constitutional Law/Primary Review]] - Primary review materials
+- [[Completed Classes/Constitutional Law/Expanded Review]] - Expanded review content
+- [[Completed Classes/Constitutional Law/Quiz]] - Practice quiz materials
+- [[Completed Classes/Constitutional Law/Quiz 2]] - Additional practice quiz
 
 ### [[Statutory Law]]
 Missouri statutory law governing criminal offenses and law enforcement procedures:
@@ -34,7 +36,7 @@ Missouri statutory law governing criminal offenses and law enforcement procedure
 - Mental health detention procedures
 - Weapons definitions and armed criminal action
 
-### [[First Responder & Medical Response]]
+### [[Completed Classes/First Responder & Medical Response|First Responder & Medical Response]]
 Critical medical and emergency response training for law enforcement officers:
 - Combat gauze application and bleeding control
 - Chest injuries and respiratory emergencies
@@ -71,7 +73,7 @@ Professional documentation and communication skills:
 - Legal implications of documentation
 - Information gathering and witness interviews
 
-### [[Traffic Law]]
+### [[Completed Classes/Traffic Law|Traffic Law]]
 Traffic enforcement procedures and Missouri-specific regulations:
 - Professional violator contact methods
 - Driver's license classifications and requirements

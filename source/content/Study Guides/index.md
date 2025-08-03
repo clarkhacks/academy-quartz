@@ -80,14 +80,16 @@ Quick reference guides for police academy training materials. These condensed st
 
 ## Related Resources
 
-- [[Constitutional Law]] - Full constitutional law notes
-  - [[Constitutional Law/Test Review - Answered]] - Comprehensive test preparation
-  - [[Constitutional Law/Objectives - Answered]] - Course objectives with detailed answers
+- [[Completed Classes/Constitutional Law/Constitutional Law|Constitutional Law]] - Full constitutional law notes
+  - [[Completed Classes/Constitutional Law/Primary Review]] - Primary review materials
+  - [[Completed Classes/Constitutional Law/Expanded Review]] - Expanded review content
+  - [[Completed Classes/Constitutional Law/Quiz]] - Practice quiz materials
+  - [[Completed Classes/Constitutional Law/Quiz 2]] - Additional practice quiz
 - [[Statutory Law]] - Complete Missouri statutory law and criminal code
-- [[First Responder & Medical Response]] - Complete medical response training
+- [[Completed Classes/First Responder & Medical Response|First Responder & Medical Response]] - Complete medical response training
 - [[Patrol Operations]] - Detailed patrol procedures and tactics
 - [[Report Writing]] - Comprehensive report writing instruction
-- [[Traffic Law]] - Complete traffic law and enforcement procedures
+- [[Completed Classes/Traffic Law|Traffic Law]] - Complete traffic law and enforcement procedures
 
 ---
 
