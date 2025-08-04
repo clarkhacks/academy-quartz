@@ -4,7 +4,7 @@ Quick reference guides for police academy training materials. These condensed st
 
 ## Available Study Guides
 
-### [[Constitutional Law Study Guide]]
+### [[Completed Classes/Study Guides/Constitutional Law Study Guide|Constitutional Law Study Guide]]
 - Standards of evidence (hunch to beyond reasonable doubt)
 - Legal thresholds for police action
 - Constitutional amendments and rights
@@ -28,7 +28,7 @@ Quick reference guides for police academy training materials. These condensed st
 - Search and seizure statutory requirements
 - Mental health detention procedures
 
-### [[First Responder & Medical Response Study Guide]]
+### [[Completed Classes/Study Guides/First Responder & Medical Response Study Guide|First Responder & Medical Response Study Guide]]
 - Combat gauze application and bleeding control
 - Chest injuries and respiratory emergencies
 - Shock indicators and hypothermia prevention
@@ -60,7 +60,7 @@ Quick reference guides for police academy training materials. These condensed st
 - Legal documentation requirements
 - Consequences of poor report writing
 
-### [[Traffic Law Study Guide]]
+### [[Completed Classes/Study Guides/Traffic Law Study Guide|Traffic Law Study Guide]]
 - 7-step violator contact method
 - Missouri license types and requirements
 - Vehicle registration and insurance laws

@@ -22,7 +22,7 @@
 
 ## Mental States & Defenses
 
-### Required Mental States (§562.021)
+### Required Mental States ([§562.021](https://revisor.mo.gov/main/OneSection.aspx?section=562.021))
 - If not specified: **Purpose**, **Knowledge**, or **Recklessness** required
 - **Negligence is not sufficient** unless specifically stated
 
@@ -39,34 +39,34 @@
 
 ## Use of Force & Justification
 
-### Defense of Persons (§563.031)
+### Defense of Persons ([§563.031](https://revisor.mo.gov/main/OneSection.aspx?section=563.031))
 - **No duty to retreat** from dwelling, residence, vehicle, or lawful location
 - **Deadly force justified** if reasonably believes necessary and person unlawfully enters/remains in dwelling
 
-### Defense of Property (§563.041)
+### Defense of Property ([§563.041](https://revisor.mo.gov/main/OneSection.aspx?section=563.041))
 - **Deadly force cannot be used just to protect property**
 - **Force must be terminated** when threat ends
 
-### LEO Use of Force (§563.046)
+### LEO Use of Force ([§563.046](https://revisor.mo.gov/main/OneSection.aspx?section=563.046))
 **Deadly force only if:**
 - Immediate necessity
 - Felony involving serious injury
 - Escape using deadly weapon/dangerous instrument
 - Poses serious danger to officer/others
 
-### LEO Arrest Authority (§544.216)
+### LEO Arrest Authority ([§544.216](https://revisor.mo.gov/main/OneSection.aspx?section=544.216))
 - **Officers can arrest with probable cause**
 - Must be **POST certified**
 - **Can act on reasonable appearances** (even if mistaken)
 
 ## Attempt and Conspiracy
 
-### Attempt (§562.012)
+### Attempt ([§562.012](https://revisor.mo.gov/main/OneSection.aspx?section=562.012))
 **Elements:**
 - **Purpose** to commit offense
 - **Substantial step** toward commission
 
-### Conspiracy (§562.014)
+### Conspiracy ([§562.014](https://revisor.mo.gov/main/OneSection.aspx?section=562.014))
 **Elements:**
 - Conspire with 1+ persons
 - 1+ person does act to further it
@@ -76,12 +76,12 @@
 
 ## Homicide and Assault
 
-### First Degree Murder (§565.020)
+### First Degree Murder ([§565.020](https://revisor.mo.gov/main/OneSection.aspx?section=565.020))
 - **Definition**: Knowingly causes death **after deliberation**
 - **Deliberation**: Cool reflection for any length of time, no matter how brief
 - **Penalty**: Death or life without parole/probation
 
-### Special Victims (§565.002)
+### Special Victims ([§565.002](https://revisor.mo.gov/main/OneSection.aspx?section=565.002))
 **Includes:** Law enforcement, emergency personnel, elderly, disabled, vulnerable persons
 - **While performing official duties**
 - **Enhanced sentencing** applies
@@ -128,7 +128,7 @@
 
 ## Mental Health and Civil Process
 
-### Mental Health Detention (§632.305)
+### Mental Health Detention ([§632.305](https://revisor.mo.gov/main/OneSection.aspx?section=632.305))
 **Can detain without warrant up to 96 hours if:**
 - **Probable cause** of mental disorder
 - **Likelihood of serious harm**
@@ -139,12 +139,12 @@
 
 ## Key Legal Principles
 
-### Multiple Convictions (§556.041)
+### Multiple Convictions ([§556.041](https://revisor.mo.gov/main/OneSection.aspx?section=556.041))
 **Cannot convict of multiple offenses if:**
 - One included in the other
 - Based on same conduct/transaction
 
-### Accountability (§562.036)
+### Accountability ([§562.036](https://revisor.mo.gov/main/OneSection.aspx?section=562.036))
 **Criminally liable if aid/plan/attempt with purpose**
 
 ---

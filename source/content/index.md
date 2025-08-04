@@ -89,12 +89,12 @@ Traffic enforcement procedures and Missouri-specific regulations:
 
 ### [[Study Guides/]]
 Condensed study guides for rapid review and exam preparation:
-- [[Study Guides/Constitutional Law Study Guide]]
+- [[Completed Classes/Study Guides/Constitutional Law Study Guide|Constitutional Law Study Guide]]
 - [[Study Guides/Statutory Law Study Guide]]
-- [[Study Guides/First Responder & Medical Response Study Guide]]
+- [[Completed Classes/Study Guides/First Responder & Medical Response Study Guide|First Responder & Medical Response Study Guide]]
 - [[Study Guides/Patrol Operations Study Guide]]
 - [[Study Guides/Report Writing Study Guide]]
-- [[Study Guides/Traffic Law Study Guide]]
+- [[Completed Classes/Study Guides/Traffic Law Study Guide|Traffic Law Study Guide]]
 
 ---
 
